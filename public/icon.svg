@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#080014"/>
+  <text x="256" y="340" font-size="280" text-anchor="middle">🔮</text>
+  <text x="256" y="460" font-size="72" text-anchor="middle" fill="#ff6a00" font-family="serif">사주도사</text>
+</svg>

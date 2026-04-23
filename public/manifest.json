@@ -1,0 +1,24 @@
+{
+  "name": "사주도사 Fortune Oracle",
+  "short_name": "사주도사",
+  "description": "AI 사주팔자 풀이 | 한국어·영어·중국어·일본어",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080014",
+  "theme_color": "#080014",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
