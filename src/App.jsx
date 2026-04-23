@@ -455,7 +455,7 @@ Tell the story of this person's wealth journey and when fortune peaks. (3 senten
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-5",
           max_tokens: 2800,
           system: psn.sys[lang] || psn.sys["en"],
           messages: [
